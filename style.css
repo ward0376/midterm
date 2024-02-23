@@ -1,3 +1,13 @@
+header{
+    background-color: black;
+}
+
+img{
+    display: block;
+    margin: auto;
+    display:flex
+}
+
 body{
 font-family:Georgia, 'Times New Roman', Times, serif;
 font-size: 1.25rem;
@@ -38,6 +48,7 @@ footer{
     color: ghostwhite;
     padding: 0rem;
     font-size: smaller;
+    text-align: center;
 }
 
 ul{
@@ -57,6 +68,3 @@ figcaption{
     color: rgb(121, 121, 121);
     
 }
-
-
-height="50" viewBox="0 0 130 50" width="130">
